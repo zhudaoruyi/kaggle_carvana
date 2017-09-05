@@ -1,0 +1,25 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
+.idea/
+
+*.ndpi
+*.svs
+*.h5
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+data/
+data
+logs/
+images/
+*.out
+package-lock.json
+documents/
